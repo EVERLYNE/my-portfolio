@@ -1,0 +1,53 @@
+	/*body{
+		background-color: pink;
+		background-size: cover;
+		background-repeat: repeat;*/
+
+
+
+	/*}*/
+	header{
+		background-color: white;
+		width: 1300px;
+		height: 800px;
+	    margin:0 auto;
+	    padding:10px;
+	    margin-top: 20px
+	    background-size:cover;
+
+
+	}
+
+	.mum{
+		font-size:15px;
+		text-align: center
+
+	}
+	.main{
+		list-style: none;
+		margin-top: 30px;
+		overflow: hidden;
+		padding: 50px;
+		
+		
+	}
+	.main li{
+		display: inline-block;
+
+	}
+	.main li a{
+		color: red;
+		text-decoration: underline;
+		padding: 5px 20px;
+		font-size: 15px;
+	}
+	}
+	.main li a:hover{
+		background-color: black;
+		transition:all-ease-in-out;
+
+
+
+	}
+
+	*/*/
